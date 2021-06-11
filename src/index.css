@@ -59,6 +59,11 @@ nav a:active {
   background-color: cornsilk;
 }
 
+#about {
+  background-color: rgb(172, 241, 248);
+}
+
 #about img {
+  background-color: rgb(172, 241, 248);
   max-height: 50%;
 }
